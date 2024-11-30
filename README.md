@@ -1,11 +1,17 @@
 # Customer_Segmentation_project
 ## Project Overview
-This project is about understanding customer's behaviour and demographics, also identifying the customer's segments.The dataset was downloaded from Kaggle, it contains simulated customers data and didn't need cleaning.
-## Steps
--So the First Step taken was to perform **Data Exploration**, I did that using **SQL** to understand the data and extract key insights.
--Second Step was building a **Dashboard** using **Tableau** Software that presented the main KPI's,customer's demogarphics and buying behaviours.
+This project is an analytical dashboard for customer segmentaion.
+
+## Main features
+-It presents main KPI's like number of customers, avg. purchase frequency for customers, and avg. spending score for customers.
+
+-It also presents charts for better understanding customer behaviour like avg. spending score by membership years and preferred categories for customers.
+
+-These KPI's and charts can be broken down by filters like gender and age for better understanding customers behaviour
+
 ## Project Conclusion
 Insights gathered are:
-- Customer between 30 and 40 years old tend to have highest average spending score.
 - Females have higher spending scores while Males tend to have higher purchase frequency.
 - Electronics is the most preferred category followed by Sports.
+- As membership years increase purchase frequency tends to increase.
+- 
