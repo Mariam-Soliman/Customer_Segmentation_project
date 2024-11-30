@@ -14,4 +14,3 @@ Insights gathered are:
 - Females have higher spending scores while Males tend to have higher purchase frequency.
 - Electronics is the most preferred category followed by Sports.
 - As membership years increase purchase frequency tends to increase.
-- 
